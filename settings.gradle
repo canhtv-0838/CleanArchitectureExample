@@ -1,0 +1,4 @@
+include ':presentation'
+rootProject.name='CleanArchitectureExample'
+include ':domain'
+include ':data'
